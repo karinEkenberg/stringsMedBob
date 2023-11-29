@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\stringsmedbob\stringsmedbob\bin\Debug\stringsmedbob.exe.config
+C:\Users\zirko\source\repos\stringsmedbob\stringsmedbob\bin\Debug\stringsmedbob.exe
+C:\Users\zirko\source\repos\stringsmedbob\stringsmedbob\bin\Debug\stringsmedbob.pdb
+C:\Users\zirko\source\repos\stringsmedbob\stringsmedbob\obj\Debug\stringsmedbob.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\stringsmedbob\stringsmedbob\obj\Debug\stringsmedbob.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\stringsmedbob\stringsmedbob\obj\Debug\stringsmedbob.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\stringsmedbob\stringsmedbob\obj\Debug\stringsmedbob.exe
+C:\Users\zirko\source\repos\stringsmedbob\stringsmedbob\obj\Debug\stringsmedbob.pdb
